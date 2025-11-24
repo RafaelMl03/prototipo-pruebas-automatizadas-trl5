@@ -86,7 +86,7 @@ git clone https://github.com/RafaelMl03/prototipo-pruebas-automatizadas-trl5.git
 ---
 
 ## 📹 Video de sustentación
-https/youtube...link
+https://youtu.be/6ZVJOomwGaQ?si=J0n8uwnpRTM7vEYB 
 El video incluye:
 - Explicación del proyecto  
 - Demostración del prototipo  
